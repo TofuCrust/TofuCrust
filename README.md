@@ -13,7 +13,7 @@ I specialize in building automated systems from Linux server infrastructure to d
 
 ## 🧠 What makes me different?
 I don't just build systems **I build decision-making systems and bridge the gap between machines and humans.**
-* **Technical Translation:** I excel at breaking down complex code, system architectures, and probabilistic models into clear, actionable insights for non-technical stakeholders.
+* **Technical Translation:** Strong ability to translate complex systems, code, and probabilistic models into clear, actionable insights.
 * **AI-Augmented Engineering:** I orchestrate a multi-model AI workflow to multiply productivity and maintain high code quality (see tools below).
 * **Explainable Logic:** Building transparent rule engines.
 * **Probabilistic Thinking:** Utilizing Expected Value (EV), Bayes' Theorem, and Kelly Criterion.
@@ -25,11 +25,9 @@ I don't just build systems **I build decision-making systems and bridge the gap 
 * **Backend:** FastAPI, Laravel, PostgreSQL, MySQL
 * **DevOps & Infra:** Docker, Docker Compose, GitHub Actions (CI/CD), Ansible, systemd, Prometheus, Grafana
 * **AI Collaboration Workflow:**
-  * **Claude:** Code refactoring & logic improvement
-  * **Qwen (Local):** Local coding & rapid prototyping
-  * **ChatGPT:** Code auditing & logic verification
-  * **Grok:** Real-time technical research & sourcing
-  * **Gemini:** Workflow optimization, system design, & continuous improvement
+  * **Claude / ChatGPT** → code quality, reasoning, and auditing
+  * **Local LLMs** → rapid prototyping & offline experimentation
+  * **AI-assisted workflows** → system design and continuous improvement
 * **Tools:** VS Code, Git
 
 ## 📫 How to reach me?
