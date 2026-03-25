@@ -3,7 +3,7 @@
 ## 👨‍💻 Who am I?
 I am an Informatics Engineering student at Universitas Janabadra, Yogyakarta, currently serving as a Laboratory Assistant. 
 
-I specialize in building automated systems—from Linux server infrastructure to data-driven trading engines. My work focuses on combining system reliability (DevOps) with decision-making logic (AI & quantitative models).
+I specialize in building automated systems from Linux server infrastructure to data-driven trading engines. My work focuses on combining system reliability (DevOps) with decision-making logic (AI & quantitative models).
 
 ## 🚀 What am I currently working on?
 * **🤖 Automated Trading Systems:** Developing and deploying multiple containerized trading engines for prediction markets and stocks. I combine rule-based systems, probabilistic models (EV, Bayes, Kelly), and AI for data-driven strategy tuning.
@@ -12,7 +12,7 @@ I specialize in building automated systems—from Linux server infrastructure to
 * **📑 Final Project:** High-availability server implementation & system reliability analysis.
 
 ## 🧠 What makes me different?
-I don't just build systems — **I build decision-making systems and bridge the gap between machines and humans.**
+I don't just build systems **I build decision-making systems and bridge the gap between machines and humans.**
 * **Technical Translation:** I excel at breaking down complex code, system architectures, and probabilistic models into clear, actionable insights for non-technical stakeholders.
 * **AI-Augmented Engineering:** I orchestrate a multi-model AI workflow to multiply productivity and maintain high code quality (see tools below).
 * **Explainable Logic:** Building transparent rule engines.
